@@ -44,7 +44,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background: #009688;
+    background: lightsteelblue;
     position: absolute;
     left: 0;
     bottom: -10;
@@ -61,7 +61,7 @@
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
-    color: #fff;
+    color: lightsteelblue;
 }
 
 .content h{
@@ -88,6 +88,6 @@ button {
 }  
 
 button:hover {
-    background-color: white;
+    background-color: lightsteelblue;
     color: white;
-  }
+}
