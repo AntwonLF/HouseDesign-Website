@@ -73,3 +73,21 @@
     font-weight: 100;
     line-height: 25px;
 }
+button {
+    width: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    background: transparent;
+    font-weight: lighter;
+    border: 2px solid;
+    text-align: center;
+    color: #fff;
+    border-color: #fff;
+    cursor: pointer; 
+    transition-duration: 0.4s;
+}  
+
+button:hover {
+    background-color: white;
+    color: white;
+  }
